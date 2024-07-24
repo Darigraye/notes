@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": "#f745f1",
     "recentlyUsedIcons": [
+      "LiDatabase",
       "TiFileTypePdf",
       "🤓",
       "TiShield",
-      "LiKeyboard",
-      "TiFolder"
+      "LiKeyboard"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -47,5 +47,6 @@
   "mephi/поступление": "TiFolder",
   "mephi/поступление/программирование": "LiKeyboard",
   "mephi/поступление/защита информации": "🤓",
-  "mephi/поступление/Билеты.pdf": "TiFileTypePdf"
+  "mephi/поступление/Билеты.pdf": "TiFileTypePdf",
+  "mephi/поступление/бд": "LiDatabase"
 }
