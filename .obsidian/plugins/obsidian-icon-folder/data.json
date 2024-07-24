@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": "#f745f1",
     "recentlyUsedIcons": [
+      "🤓",
+      "TiShield",
       "LiKeyboard",
       "TiFolder",
-      "🖌",
-      "TiNotebook",
-      "TiSchool"
+      "🖌"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -45,5 +45,6 @@
   "job": "💻",
   "Excalidraw": "🖌",
   "mephi/поступление": "TiFolder",
-  "mephi/поступление/программирование": "LiKeyboard"
+  "mephi/поступление/программирование": "LiKeyboard",
+  "mephi/поступление/защита информации": "🤓"
 }
